@@ -1,0 +1,26 @@
+# Backend
+finance-backend/target/
+finance-backend/data/
+finance-backend/*.db
+*.log
+*.jar
+
+# Frontend
+finance-frontend/node_modules/
+finance-frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.local
