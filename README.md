@@ -1,4 +1,4 @@
-# VibeCoding - 家庭财务管理系统
+# BetterFinance - 家庭财务管理系统
 
 一个全栈的家庭财务管理应用，用于追踪资产、负债、收入、支出和预算执行情况。
 
@@ -53,8 +53,8 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/StevenCage1990/VibeCoding.git
-cd VibeCoding
+git clone https://github.com/StevenCage1990/BetterFinance.git
+cd BetterFinance
 ```
 
 2. **启动后端**
